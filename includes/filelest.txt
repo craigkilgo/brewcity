@@ -1,0 +1,29 @@
+ Volume in drive D is Large Disk
+ Volume Serial Number is 9CE1-D32B
+
+ Directory of D:\Users\Craig\Dropbox\Courses\INFOST490\brewcity\includes
+
+05/29/2015  01:52 PM    <DIR>          .
+05/29/2015  01:52 PM    <DIR>          ..
+04/11/2015  12:00 PM               589 auto_email.php
+04/11/2015  12:00 PM               552 auto_film.php
+05/29/2015  01:52 PM                 0 filelest.txt
+03/31/2015  03:47 PM               321 find_movie.php
+04/23/2015  10:53 AM             1,002 footer.php
+03/27/2015  12:39 PM             2,252 genre.php
+04/20/2015  02:58 PM               389 get_cust.php
+04/20/2015  03:00 PM               383 get_emp.php
+04/25/2015  12:25 PM               403 get_films.php
+04/21/2015  09:34 AM               519 get_film_id.php
+03/31/2015  02:07 PM               388 get_json.php
+05/27/2015  11:17 PM             7,242 header.php
+03/30/2015  02:30 PM               284 header2.php
+04/10/2015  11:20 AM               288 header3.php
+05/13/2015  04:21 PM               765 list_genres.php
+03/25/2015  11:39 AM               603 mysqli_connect.php
+04/01/2015  06:39 AM             2,265 state.php
+03/25/2015  02:56 PM             2,763 style.css
+11/16/2012  09:41 AM             4,588 UWMLogo.jpg
+03/31/2015  04:40 PM             4,489 working.php
+              20 File(s)         30,085 bytes
+               2 Dir(s)  671,268,077,568 bytes free
